@@ -1,0 +1,16 @@
+{
+  "appVersion": "0.14.2-beta.11",
+  "guardianVersion": "0.4.4",
+  "guardianSha256": "fe3b41688d258933aaf0a98806100c958a73300080d167ec9767462a32aabd06",
+  "guardianBytes": 2051584,
+  "installer": "ClassUp-BarrierFree-Setup-0.14.2-beta.11.exe",
+  "installerBytes": 105092455,
+  "installerSha256": "e8f88df458d6a39bcbc82e0aa31bf4c0a0648c106a6add42ec09c9f6f430616c",
+  "guardianSource": "https://github.com/Samlab-Corp/samlab-guardian/commit/385d5b7419995a755f8aafa40a4f9ee1559e77b7",
+  "artifactInstaller": "클래스업-0.14.2-beta.11-Setup.exe",
+  "sourceRepository": "Samlab-Corp/classup-kiosk-barrier-free-client",
+  "sourceCommit": "e2d456558de8b8fcd95013a75cee9f6f6ada5e83",
+  "buildRun": "41009782927",
+  "channel": "beta",
+  "prerelease": true
+}
